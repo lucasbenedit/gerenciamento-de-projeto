@@ -1,2 +1,2 @@
 Gerenciamendo de produtos em HTML E CSS E JS
-link : gerenciadordeproduto.netlify.app
+link : https://gerenciadordeproduto.netlify.app/
